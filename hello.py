@@ -12,3 +12,6 @@ NU1 = int(link["num1"].value)
 NU2 = int(link["num2"].value)
 SUM = NU1 + NU2
 print("Result= %i" % ( SUM ))
+#1 comment
+#1 comment
+#54asad
